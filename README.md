@@ -11,8 +11,9 @@
 - Zoom
 - Tips to Succeed
 
-### Variables and Operators -> [HERE - Part 2](./sections/part2.md)
-- Best practices - variables
+### The Basics -> [HERE - Part 2](./sections/part2.md)
+- Programming Basics
+- Best Practices - Variables
 - Arithmetic Operators
 CP LINK HERE
 

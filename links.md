@@ -1,3 +1,5 @@
+variables: https://codepen.io/GAmarketing/pen/JjJOaOb?editors=0012
+
 operators-variable: https://codepen.io/GAmarketing/pen/vYZWzqr?editors=0012
 
 simple-arrays: https://codepen.io/GAmarketing/pen/LYLOgbm?editors=0012
