@@ -10,7 +10,6 @@ This first video will cover how to best use the tools, Slack and Zoom, for commu
 </p>
 
 #### :bulb: Tips to Succeed
-:bulb:
 1. Communciate regularly with your instructors if you have problems or concerns. Especially if you need to miss class or you are falling behind. 
 2. Use office hours, even if you don't have a current question, get to know the person runnig office hours, building that relationship early will help in the long run.
 3. Get to know your peers, the remote environment can be isolating but if you build those relationships, you can lean on and depend on each other during challenging times or for bug hunting. There is no one answer to code, you will find that you will learn a lot by hearing someone else's perspective. <br><br>

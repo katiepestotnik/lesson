@@ -15,7 +15,6 @@
 - Programming Basics
 - Best Practices - Variables
 - Arithmetic Operators
-CP LINK HERE
 
 ### Data Structures
 - Arrays (Video3)

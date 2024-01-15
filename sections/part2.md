@@ -22,15 +22,31 @@ Variables are names that have been assigned to specific values or data.
 
 JavaScript allows us to easily define and redefine variables using a simple assignment operator (equals sign). 
 
+#### :bulb:
+<p>Do not use `var` (outdated). I recommend using `const` unless you know that your variable will change and in that case use `let`</p>
+
 ```js
 const greatProgrammingLanguage = 'JavaScript'
-let klondikesAge = 6
+let age = 6
 let codingIsFun = true
 ```
-- Variable names in JavaScript should be lowercase unless there are multiple words like the above example using camelCase. 
+- Variable names in JavaScript should be lowercase unless there are multiple words like the above examples using camelCase. 
 - A variable’s name should represent what information it is holding. This will make your code readable to yourself and others.
 
 The three above examples represent our most basic primitive data types.<br>
-![data-types](../assets/fundamental-dt.png)
+![data-types](../assets/fundamental-dt.png)<br>
+
+
+## YOU DO :computer:
+
+[CodePen Variables](https://codepen.io/GAmarketing/pen/JjJOaOb?editors=0012)
+
 
  #### Arithmetic Operators
+<p>A beautiful use of computers is that they can do much of the math for us! Below are the operators/syntax the computer uses for math operations</p><br>
+
+![arth-operators](../assets/arth-operators.png)<br>
+
+## YOU DO :computer:
+
+[CodePen Arithmetic](https://codepen.io/GAmarketing/pen/vYZWzqr?editors=0012)
