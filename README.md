@@ -13,8 +13,8 @@
 
 ### The Basics -> [HERE - Part 2](./sections/part2.md)
 - Programming Basics
-- Best Practices - Variables
-- Arithmetic Operators
+- Best Practices - Variables (CP)
+- Arithmetic Operators (CP)
 
 ### Data Structures
 - Arrays (Video3)
