@@ -22,7 +22,7 @@ Variables are names that have been assigned to specific values or data.
 
 JavaScript allows us to easily define and redefine variables using a simple assignment operator (equals sign). 
 
-#### :bulb:
+#### Tip! :bulb:
 <p>Do not use `var` (outdated). I recommend using `const` unless you know that your variable will change and in that case use `let`</p>
 
 ```js

@@ -13,16 +13,15 @@
 
 ### The Basics -> [HERE - Part 2](./sections/part2.md)
 - Programming Basics
-- Best Practices - Variables (CP)
-- Arithmetic Operators (CP)
+- Best Practices - Variables
+- Arithmetic Operators
 
 ### Data Structures
-- Arrays (Video3)
-CP LINK HERE
+- Arrays -> [HERE - Part 3](./sections/part3.md)
+    - Array Basics
     - Array Methods
-    CP LINK HERE
-- Objects (Video4)
-CP LINK HERE
+- Objects -> [HERE - Part 3.1](./sections/part3.1.md)
+
 
 ### Control Flow
 - Conditionals (Video5)
