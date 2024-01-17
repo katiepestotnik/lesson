@@ -10,7 +10,7 @@ The [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Doc
 Unit 1 will cover this information much more deeply. Since the DOM is covered in the prework, we will cover just the basic code to work with the DOM.
 
 #### Getting Data from the DOM
-There are a few ways, but the most simple and inclusive DOM method is `document.querySelector()`
+There are a few ways, but a simple and inclusive DOM method is `document.querySelector()`
 
 The following is a list of CSS selectors and the JavaScript equivalents you would use with `querySelector`:
 
