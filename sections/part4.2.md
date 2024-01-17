@@ -4,7 +4,7 @@
 [VIDEO 6 - Functions]()<br>
 
 ## Functions
-Functions are chunks of code that can be used repeatedly simply by invoking them. They perform tasks or calculate values. A function will typically have an input and produce an output. 
+Functions are chunks of code that can be used repeatedly simply by invoking them. They perform tasks or calculate values. A function will typically have an input and produce an output.<br>
 ![functions](../assets/functions.png)
 :mag_right: Review the syntax <br>
 
