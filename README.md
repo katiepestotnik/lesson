@@ -24,8 +24,7 @@
 
 
 ### Control Flow
-- Conditionals (Video5)
-CP LINK HERE
+- Conditionals [HERE - Part 4](./sections/part4.md)
 - Looping (Video6)
 CP LINK HERE
 - Functions (Video7)
