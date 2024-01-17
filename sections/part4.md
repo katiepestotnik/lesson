@@ -49,9 +49,7 @@ if(klondikeAge === missyAge){
 ```
 #### Tip! :bulb: You can have as many conditions as fits your program. There is a lot of flexibility with conditionals.
 
-:mag_right: Review the syntax <br>
-#### Tip! :bulb:
-When comparing equality, always use `===`. Many new students forget this and use `=`. If you are getting a strange result, check your comparison operator.<br>
+#### Tip! :bulb: When comparing equality, always use `===`. Many new students forget this and use `=`. If you are getting a strange result, check your comparison operator.<br>
 Check out the below example, will the CODE BLOCK inside the `{}` run? Not sure? Open a codepen and try it out for yourself.
 
 :mag_right: Review the syntax <br>

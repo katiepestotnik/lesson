@@ -33,7 +33,7 @@ let codingIsFun = true
 - Variable names in JavaScript should be lowercase unless there are multiple words like the above examples using camelCase. 
 - A variable’s name should represent what information it is holding. This will make your code readable to yourself and others.
 
-The three above examples represent our most basic primitive data types.<br>
+The three below examples represent our most basic primitive data types.<br>
 ![data-types](../assets/fundamental-dt.png)<br>
 
 
