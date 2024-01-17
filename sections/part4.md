@@ -5,9 +5,7 @@
 
 ## Conditionals
 
-[In the basics section](./part2.md), we listed 4 programming features for any language. Now we will cover 3 forms of control flow. Instead of top of the file to the bottom (sequential) as seen up to this point, we will write code to check for conditions and run the code that matches what we are looking for.</p>
-
-### Conditionals
+[In the basics section](./part2.md), we listed 4 programming features for any language. Now we will cover control flow. Instead of top of the file to the bottom (sequential) as seen up to this point, we will write code to check for conditions and run the code according to those matches.
 
 ![conditional-chart](../assets/conditional-chart.png)
 ![operators](../assets/comparison-operators.png)
@@ -22,8 +20,8 @@ if(klondikeAge === missyAge){
 }
 ```
 
-<p>Inside the parenthesis after the `if` the computer is checking whether the comparison/boolean is truthy or falsey. In the case above, the two variables match, therefore it is truthy and the CODE BLOCK inside the `{}` will run.</p>
-<p>If it was not truthy, the CODE BLOCK inside the `{}` would not run and the computer would skip over and move down the file.</p>
+Inside the parenthesis after the `if` the computer is checking whether the comparison/boolean is truthy or falsey. In the case above, the two variables match, therefore it is truthy and the CODE BLOCK inside the `{}` will run.<br>
+If it was not truthy, the CODE BLOCK inside the `{}` would not run and the computer would skip over and move down the file.
 
 ### else statement
 :mag_right: Review the syntax <br>
@@ -53,9 +51,9 @@ if(klondikeAge === missyAge){
 
 :mag_right: Review the syntax <br>
 #### Tip! :bulb:
-<p>When comparing equality, always use `===`. Many new students forget this and use `=`. If you are getting a strange result, check your comparison operator.<br>
+When comparing equality, always use `===`. Many new students forget this and use `=`. If you are getting a strange result, check your comparison operator.<br>
 Check out the below example, will the CODE BLOCK inside the `{}` run? Not sure? Open a codepen and try it out for yourself.
-</p>
+
 :mag_right: Review the syntax <br>
 
 ```js

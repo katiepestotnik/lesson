@@ -5,18 +5,19 @@
 
 ## Arrays
 
-<p>An array is an ordered collection of data combined into one variable.</p>
-<p>Each item in the list is assigned an index value which is how elements are accessed and updated.</p>
+An array is an ordered collection of data combined into one variable.<br>
+Each item in the list is assigned an index value which is how elements are accessed and updated.
 
 ```js
 const fruits = ['banana', 'orange', 'apple']
 ```
-<p>In the above fruits array, banana is at index 0, orange is at index 1, and apple is at index 2.</p>
+In the above fruits array, banana is at index 0, orange is at index 1, and apple is at index 2.<br>
 :bulb: Just remember to always start at ZERO!<br>
-:mag_right: Review the syntax<br> Square brackets define an array and you separate each element in the array with commas.
+:mag_right: Review the syntax<br> 
+Square brackets `[]` define an array, and you separate each element in the array with commas `,`.
 
 ### Accessing Array Values
-<p>Access elements in an array using the index value in square brackets.</p>
+Access elements in an array using the index value in square brackets.
 
 ```js
 const fruits = ['banana', 'orange', 'apple']
@@ -27,7 +28,7 @@ fruits[2] //apple
 ```
 
 ### Updating Array Values
-<p>Updating elements is just like accessing, but we will use our assignment operator (=) to reassign the value of the specific element.</p>
+Updating elements is just like accessing, but we will use our assignment operator `=` to reassign the value of the specific element.
 
 ```js
 const fruits = ['banana', 'orange', 'apple']
@@ -39,19 +40,19 @@ fruits[1] = 'strawberry'
 
 ## YOU DO :computer:
 
-[CodePen Arrays](https://codepen.io/GAmarketing/pen/LYLOgbm?editors=0012)
+[CodePen Arrays](https://codepen.io/Katie22/pen/MWxpXLQ)
 
 ## Array Methods
 
-<p>JavaScript has built in functons called methods that assists in accessing and updating elements in arrays.</p>
-:mag_right: Review the syntax <br>
+JavaScript has built-in functions called methods that assists in accessing and updating elements in arrays.<br>
+:mag_right: Review the syntax<br>
 arrayName.methodName(input/arguments if needed)
 
 ### Array Method - push() [W3 Schools - push()](https://www.w3schools.com/jsref/jsref_push.asp)
 
-<p>Adds an element to the end of an array</p>
-:mag_right: Review the syntax <br>
-Notice single quotes for the strings. Single or double work just fine. If you use single, and there is a contraction like Pan's Labyrinth below, you must escape it with \
+Adds an element to the end of an array<br>
+:mag_right: Review the syntax<br>
+Notice single quotes for the strings. Single or double work just fine. If you use single, and there is a contraction like Pan's Labyrinth below, you must escape it with `\`
 
 ```js
 
@@ -62,7 +63,7 @@ movies.push('Crimson Peak')
 
 ### Array Method - unshift() [W3 Schools - unshift()](https://www.w3schools.com/jsref/jsref_unshift.asp)
 
-<p>Adds an element to the front of an array</p>
+Adds an element to the front of an array
 
 ```js
 const cars = ['Ferrari', 'Porsche']
@@ -71,7 +72,7 @@ cars.unshift('Aston Martin')
 
 ### Array Method - pop() [W3 Schools - pop()](https://www.w3schools.com/jsref/jsref_pop.asp)
 
-<p>Removes the last element from an array</p>
+Removes the last element from an array
 
 ```js
 const animals = ['pig', 'cow', 'sheep']

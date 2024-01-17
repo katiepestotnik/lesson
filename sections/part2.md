@@ -5,7 +5,7 @@
 
 #### Programming Fundamentals
 
-<p>Every programming language can be broken down into core components. Having a general framework for this context will help us learn specifics for JavaScript.</p>
+Every programming language can be broken down into core components. Having a general framework for this context will help us learn specifics for JavaScript.
 
 1. Syntax
 - The structure of the commands given to the computer
@@ -20,10 +20,10 @@
 
 Variables are names that have been assigned to specific values or data.
 
-JavaScript allows us to easily define and redefine variables using a simple assignment operator (equals sign). 
+JavaScript allows us to easily define and redefine variables using a simple assignment operator `=`. 
 
 #### Tip! :bulb:
-<p>Do not use `var` (outdated). I recommend using `const` unless you know that your variable will change and in that case use `let`</p>
+Do not use `var` (outdated). I recommend using `const` unless you know that your variable will change and in that case use `let`
 
 ```js
 const greatProgrammingLanguage = 'JavaScript'
@@ -39,14 +39,14 @@ The three above examples represent our most basic primitive data types.<br>
 
 ## YOU DO :computer:
 
-[CodePen Variables](https://codepen.io/GAmarketing/pen/JjJOaOb?editors=0012)
+[CodePen Variables](https://codepen.io/Katie22/pen/BabWVGz)
 
 
  #### Arithmetic Operators
-<p>A beautiful use of computers is that they can do much of the math for us! Below are the operators/syntax the computer uses for math operations</p><br>
+A beautiful use of computers is that they can do much of the math for us! Below are the operators/syntax the computer uses for math operations<br>
 
 ![arth-operators](../assets/arth-operators.png)<br>
 
 ## YOU DO :computer:
 
-[CodePen Arithmetic](https://codepen.io/GAmarketing/pen/vYZWzqr?editors=0012)
+[CodePen Arithmetic](https://codepen.io/Katie22/pen/RwdpJEN)

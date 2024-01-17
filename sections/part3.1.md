@@ -6,9 +6,9 @@
 
 ## Objects
 
-<p>An object is a collection of properties associated as pairs of keys and values.  A good example is an employee of General Assembly.</p>
-:mag_right: Review the syntax <br>
-Curly brackets define an object and you separate each property with a comma and you separate the key/values with a colon.
+An object is a collection of properties associated as pairs of keys and values.  A good example is an employee of General Assembly.<br>
+:mag_right: Review the syntax<br>
+Curly brackets `{}` define an object, and you separate each property with a comma `,`, and you separate the key/values with a colon `:`.
 
 ```js
 const instructor = {
@@ -17,14 +17,14 @@ const instructor = {
   yearsActive: 2,
 }
 ```
-<p>The instructor object has three properties.<br>
+The instructor object has three properties.<br>
 The keys are: name, company, yearsActive<br>
-The values are: 'Katie', 'General Assembly', 2</p>
+The values are: 'Katie', 'General Assembly', 2
 
 ### Accessing Object Values
 
 #### Dot Notation (preferred)
-:mag_right: Review the syntax <br>
+:mag_right: Review the syntax<br>
 object.key
 
 ```js
@@ -38,7 +38,7 @@ instructor.yearsActive // 2
 ```
 
 #### Bracket Notation
-:mag_right: Review the syntax <br>
+:mag_right: Review the syntax<br>
 object['key']
 
 ```js
@@ -52,7 +52,7 @@ instructor['yearsActive'] // 2
 ```
 
 ### Updating Object Values
-<p>Same as accessing however you will use the assignment operator (=) to change the value.</p>
+Same as accessing however you will use the assignment operator `=` to change the value.
 
 #### Dot Notation (preferred)
 
