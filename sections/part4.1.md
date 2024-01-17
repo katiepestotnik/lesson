@@ -12,12 +12,13 @@ Loop: A control flow statement allowing for the repeated execution of a code blo
 ### for loop
 
 
-A `for` loop is similar to an `if` statement but with more conditions. When creating a `for` loop, we need three declarations:
+When creating a `for` loop, we need three declarations:
 
 1. Define a variable - the iterator (i)
 2. Terminating condition to end the loop
 3. Increment/Decrement the iterator variable
-:mag_right: Review the syntax <br>
+:mag_right: Review the syntax<br>
+Notice the `;` between each component of the `for` loop.
 ```js
 for(let i = 0; i < 10; i++){
   console.log(i)
@@ -33,7 +34,7 @@ for(let i = 0; i < 10; i++){
 
 Looping is great with arrays. It allows you to move through a large set of data and manipulate or check information.<br>
 :mag_right: Review the syntax<br>
-Usually we want to loop through the whole array, so we will use the length property for arrays.
+Usually we want to loop through the whole array, so we will use the length property for arrays `dogs.length`.
 ```js
 const dogs = ['Klondike', 'Missy', 'Star']
 for(let i = 0; i < dogs.length; i++){
