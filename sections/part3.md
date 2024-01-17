@@ -79,7 +79,7 @@ animals.pop()
 // ['pig', 'cow']
 ```
 
-#### Note - there are several methods, use google to research potential solutions for working with arrays. [W3 Schools](https://www.w3schools.com/jsref/jsref_obj_array.asp) and [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) are great resources.
+#### Tip! :bulb: - there are several methods, use google to research potential solutions for working with arrays. [W3 Schools](https://www.w3schools.com/jsref/jsref_obj_array.asp) and [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) are great resources.
 
 ## YOU DO :computer:
 

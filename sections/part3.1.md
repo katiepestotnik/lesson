@@ -73,7 +73,7 @@ const instructor = {
 }
 instructor['name'] = 'Katie Pestotnik'
 ```
-#### Note - You can add properties to an object just like you update values.
+#### Tip! :bulb: - You can add properties to an object just like you update values.
 ```js
 instructor.location = 'Colorado'
 
