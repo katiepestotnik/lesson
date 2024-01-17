@@ -17,7 +17,7 @@ The above function has been defined, but nothing will happen unless we invoke th
 ```js
 displayGreeting()
 ```
-As mentioned above, you can run this function as many times as you would like if we need to greet many users on our website. This keeps our code DRY (don't repeat yourself).<br><br>
+As mentioned above, you can run this function as many times as needed such as we need to greet many users on our website. This keeps our code DRY (don't repeat yourself).<br>
 
 `displayGreeting()` is a very simple function that doesn't offer a lot of options. How can you build a function that greets someone specifically by their name?<br>
 Parameters and Arguments!
@@ -53,7 +53,7 @@ function addNums(num1, num2){
 addNums(2, 6)
 //output is 8
 //if you invoke a function with a return, you will not see it in the console even though it is still working. 
-//if you want to see it in the console, console.log the invokation of the function
+//if you want to test it in the console, console.log the invokation of the function
 console.log(addNums(2, 6))
 ```
 
