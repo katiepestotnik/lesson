@@ -4,7 +4,7 @@
 [VIDEO 7 - DOM]()<br>
 
 ## What is the DOM?
-The [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction), commonly referred to as the "DOM", is a programming interface for HTML. When you load HTML into the browser, it gets converted into a dynamic object-based structure.<br><br>
+The [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction), commonly referred to as the "DOM", is a programming interface for HTML. When you load HTML into the browser, it gets converted into a dynamic object-based structure.<br>
 
 ### Keeping it simple
 Unit 1 will cover this information much more deeply. Since the DOM is covered in the prework, we will cover just the basic code to work with the DOM.
