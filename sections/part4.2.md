@@ -39,3 +39,27 @@ displayGreeting('Sue')
 2. The arguments: 'Bob' and 'Sue'
 
 
+### Tip! :bulb: return
+
+In the previous examples, we used console.log however, console.log is only for developers during development and are not useful for working applications. In order for a function to output a value `return` is essential.<br>
+
+:mag_right: Review the syntax <br>
+
+```js
+function addNums(num1, num2){
+  return num1 + num2
+}
+//invoke it with arguments!
+addNums(2, 6)
+//output is 8
+//if you invoke a function with a return, you will not see it in the console even though it is still working. 
+//if you want to see it in the console, console.log the invokation of the function
+console.log(addNums(2, 6))
+```
+
+### Tip! :bulb: Many ways to write a function
+The above example for writing a function is a `function declaration`. There are other ways to write functions, but function declarations are a great place to start. 
+
+## YOU DO :computer:
+
+[CodePen Functions](https://codepen.io/Katie22/pen/abPdEOv)
