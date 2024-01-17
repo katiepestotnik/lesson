@@ -37,7 +37,7 @@ Review the HTML below:
 </body>
 </html>
 ```
-I want to select the `h1` in the html above. We can do it three ways with `querySelector`
+I want to select the `h1` in the html above. We can do it three ways with `querySelector`<br>
 :mag_right: Review the syntax <br>
 ```js
 const h1Tag = document.querySelector('h1')
@@ -57,9 +57,11 @@ A variable was created to hold the element. Notice that the argument passed into
 
 We can select DOM elements like `h1Class` above and inspect them in the browser with `console.dir()`
 
-Let's take a look at `textContent`
+![console.dir](../assets/console.dir.png)
+
+Let's take a look at `textContent`<br>
 Notice how the value is Hello, just like our HTML!<br>
-We can change it by accessing the `h1Class.textContent`
+We can change the text by accessing `textContent`
 ```js
 h1Class.textContent = 'Wow, the DOM is fun!'
 ```
