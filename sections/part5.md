@@ -65,7 +65,7 @@ We can select DOM elements like `h1Class` above and inspect them in the browser 
 Let's take a look at `textContent`<br>
 Notice how the value is Hello, just like our HTML!<br>
 We can change the text by accessing `textContent`<br>
-DOM is converted into an object, hence dot notation to get textContent
+HTML is converted into an object (DOM), hence dot notation is used to get textContent
 ```js
 h1Class.textContent = 'Wow, the DOM is fun!'
 ```
