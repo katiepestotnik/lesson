@@ -16,7 +16,7 @@ When creating a `for` loop, we need three declarations:
 
 1. Define a variable - the iterator (i)
 2. Terminating condition to end the loop
-3. Increment/Decrement the iterator variable
+3. Increment/Decrement the iterator variable<br>
 :mag_right: Review the syntax<br>
 Notice the `;` between each component of the `for` loop.
 ```js

@@ -39,16 +39,19 @@ Review the HTML below:
 ```
 I want to select the `h1` in the html above. We can do it three ways with `querySelector`<br>
 :mag_right: Review the syntax <br>
+1. Select by the element
 ```js
 const h1Tag = document.querySelector('h1')
 ```
+2. Select by the class
 ```js
 const h1Class = document.querySelector('.title')
 ```
+3. Select by the id
 ```js
 const h1Id = document.querySelector('#first-title')
 ```
-A variable was created to hold the element. Notice that the argument passed into the `querySelector` is always wrapped with quotes.
+A variable was created to hold the element. Notice :mag_right: that the argument passed into the `querySelector` is always wrapped with quotes.
 1. element gets element name 
 2. class gets a `.` -> just like we select classes in css
 3. id gets a `#` -> just like we select ids in css
@@ -61,7 +64,8 @@ We can select DOM elements like `h1Class` above and inspect them in the browser 
 
 Let's take a look at `textContent`<br>
 Notice how the value is Hello, just like our HTML!<br>
-We can change the text by accessing `textContent`
+We can change the text by accessing `textContent`<br>
+DOM is converted into an object, hence dot notation to get textContent
 ```js
 h1Class.textContent = 'Wow, the DOM is fun!'
 ```
