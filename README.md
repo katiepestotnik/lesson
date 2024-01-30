@@ -2,7 +2,7 @@
 
 
 # SEI PreCourse JavaScript Fundamentals
-[VIDEO 1]()
+[START HERE - VIDEO 1]()
 ## Full Agenda
 
 ### Welcome the the GA learning environment -> [HERE - Part 1](./sections/part1.md)
