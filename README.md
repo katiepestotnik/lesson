@@ -2,7 +2,7 @@
 
 
 # SEI PreCourse JavaScript Fundamentals
-[START HERE - VIDEO 1]()
+[START HERE - VIDEO 1](https://generalassembly.zoom.us/rec/share/mVCTsEKTM8Tdb1LXnAjKHID5Piikvenu5_r7jLDWE-xAAV-sV1GO494_5nufYdpT.a2VuGdBGYsI5X5xX?startTime=1706649835000)
 ## Full Agenda
 
 ### Welcome the the GA learning environment -> [HERE - Part 1](./sections/part1.md)

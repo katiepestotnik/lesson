@@ -1,7 +1,7 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly)
 # Welcome to the GA learning environment
 
-[VIDEO 1]()
+[VIDEO 1](https://generalassembly.zoom.us/rec/share/mVCTsEKTM8Tdb1LXnAjKHID5Piikvenu5_r7jLDWE-xAAV-sV1GO494_5nufYdpT.a2VuGdBGYsI5X5xX?startTime=1706649835000)
 
 #### Intro, Slack/Zoom, Tips to Succeed
 My name is Katie Pestotnik and I will be helping you get started at General Assembly. I was a software engineering student, and then I became an instructor to share my love of the field to new GA students.<br><br>
