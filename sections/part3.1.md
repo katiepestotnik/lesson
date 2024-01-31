@@ -2,7 +2,7 @@
 
 # Data Structures - Objects
 
-[VIDEO 4 - Objects]()
+[VIDEO 4 - Objects](https://generalassembly.zoom.us/rec/share/LUTV8BE7Rh5wCHF64gvmlHQrAHRGW2_hkHDJvwsOog0KqQgOECRdV-zkaDoYazRX.ZUYn3xTZcx7sdcbn?startTime=1706712328000)
 
 ## Objects
 
