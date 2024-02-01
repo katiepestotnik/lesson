@@ -24,11 +24,8 @@
 - Objects -> [HERE - Part 3.1](./sections/part3.1.md)
 
 ### Control Flow
-
 - Conditionals -> [HERE - Part 4](./sections/part4.md)
-
 - Looping -> [HERE - Part 4.1](./sections/part4.1.md)
-
 - Functions -> [HERE - Part 4.2](./sections/part4.2.md)
 
 ### Intro to DOM
