@@ -1,4 +1,3 @@
-[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly)
 # The Basics
 
 [VIDEO 2](https://generalassembly.zoom.us/rec/share/UP_pAarU-qX4bIWo0HXTlGNL4UbVFxZcHp-8_4dwQKf4l03m3X2Dd5A1nXvs_ish.IjCnZcgoXOixiwWj?startTime=1706650948000)
