@@ -1,7 +1,7 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly)
 # DOM - Document Object Model
 
-[VIDEO 7 - DOM]()<br>
+[VIDEO 8 - DOM](https://generalassembly.zoom.us/rec/share/IGyFlYRSheHzhZUr-pMU1qqkcw6_wCBjNeow5rsXCn3nu2Eq4IbhNC9qLrkEilxo.Yynx97nxvCVpWZT7?startTime=1706805447000)<br>
 
 ## What is the DOM?
 The [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction), commonly referred to as the "DOM", is a programming interface for HTML. When you load HTML into the browser, it gets converted into a dynamic object-based structure.<br>

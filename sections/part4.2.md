@@ -1,7 +1,7 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly)
 # Control Flow - Functions
 
-[VIDEO 6 - Functions](https://generalassembly.zoom.us/rec/share/HFC6t86faVnZLx-fDaEnC40sdrUXJxfCMIrCF5eutpaQ7iAry8XKgrQKV7aD-QUa.DTDFogK4NaPhlsKK?startTime=1706798825000)<br>
+[VIDEO 7 - Functions](https://generalassembly.zoom.us/rec/share/HFC6t86faVnZLx-fDaEnC40sdrUXJxfCMIrCF5eutpaQ7iAry8XKgrQKV7aD-QUa.DTDFogK4NaPhlsKK?startTime=1706798825000)<br>
 
 ## Functions
 Functions are chunks of code that can be used repeatedly simply by invoking them. They perform tasks or calculate values. A function will typically have an input and produce an output.<br>
